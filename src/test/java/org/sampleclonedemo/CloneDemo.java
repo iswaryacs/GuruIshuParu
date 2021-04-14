@@ -6,5 +6,7 @@ private void method1() {
 	System.out.println("ishu");
 	System.out.println("paru");
 	System.out.println("paru update one code");
+	System.out.println("Guru Updated One Code");
+
 }
 }
